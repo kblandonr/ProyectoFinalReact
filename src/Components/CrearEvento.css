@@ -1,0 +1,38 @@
+
+
+.card{
+    margin: 0 auto;
+    max-width: 500px;
+    margin-bottom: 30px;
+        background-color: white;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3), 0 8px 17px rgba(0, 0, 0, 0.2);
+      
+}
+
+.card-title{
+    text-align: center;
+}
+
+.form-label{
+    margin:0 auto;
+}
+
+.mb-3{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+}
+
+#Enviar{
+    margin: 10px;
+    width: 170px;
+    justify-content: center;
+
+}
+
+.error-message{
+    color: red;
+    font-size: 15px;
+}
